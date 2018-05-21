@@ -1,0 +1,31 @@
+a, a:link, a:visited, a:active {
+  text-decoration: none;
+}
+
+body {
+  background-color: #111D35;
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  margin-top: 50px;
+  max-width: 20%;
+  max-height: 20%;
+}
+
+#search {
+  color: black;
+}
+
+.entry, .entry a, .entry a:link, .entry a:visited, .entry a:active {
+  background-color: #f3f3f3;
+  color: black;
+  margin: 4px 100px 4px 100px;
+  padding: 6px 30px 6px 30px;
+  text-decoration: none;
+}
+
+.random, .random a {
+  color: white;
+  text-align: center;
+}
